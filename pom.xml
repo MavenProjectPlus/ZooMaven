@@ -4,6 +4,7 @@
 
     <groupId>com.mycompany</groupId>
     <artifactId>ZooMaven</artifactId>
+    <version>1.0</version>
     <packaging>war</packaging>
 
     <name>ZooMaven</name>
